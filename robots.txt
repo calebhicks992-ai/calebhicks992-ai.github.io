@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://calebhicks992-ai.github.io/sitemap.xml
